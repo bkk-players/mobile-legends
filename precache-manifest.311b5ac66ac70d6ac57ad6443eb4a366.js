@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46c39b0bc543a63470abe748ef015e4c",
+    "revision": "47ca923f84ae3b03fea39ecbb95f8ab0",
     "url": "/mobile-legends/index.html"
   },
   {
-    "revision": "97edf566aef81a348957",
+    "revision": "8768762644cfb0324c60",
     "url": "/mobile-legends/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobile-legends/static/js/2.03ca2442.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97edf566aef81a348957",
-    "url": "/mobile-legends/static/js/main.2a272924.chunk.js"
+    "revision": "8768762644cfb0324c60",
+    "url": "/mobile-legends/static/js/main.5579a863.chunk.js"
   },
   {
     "revision": "53fe2f0b9220ee429cbd",
